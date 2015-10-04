@@ -1,0 +1,3 @@
+[submodule "gravity-hammer/Assets/DTCoreModule"]
+	path = gravity-hammer/Assets/DTCoreModule
+	url = https://github.com/DarrenTsung/DTCoreModule.git
