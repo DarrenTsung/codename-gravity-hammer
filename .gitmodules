@@ -1,3 +1,6 @@
 [submodule "gravity-hammer/Assets/DTCoreModule"]
 	path = gravity-hammer/Assets/DTCoreModule
 	url = https://github.com/DarrenTsung/DTCoreModule.git
+[submodule "gravity-hammer/Assets/DTGameEngineModule"]
+	path = gravity-hammer/Assets/DTGameEngineModule
+	url = https://github.com/DarrenTsung/DTGameEngineModule.git
